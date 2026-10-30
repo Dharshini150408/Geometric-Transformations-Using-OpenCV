@@ -268,7 +268,8 @@ ____________________________
 - Original image is displayed  
 - 45° rotated image is displayed  
 - 90° rotated image is displayed  
-![Uploading image.png…]()
+<img width="1917" height="1025" alt="Screenshot 2026-10-28 092830" src="https://github.com/user-attachments/assets/6d0b99ba-4ae7-460b-be5f-1a1cfc44a774" />
+
 
 ---
 
